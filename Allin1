@@ -1,0 +1,7 @@
+-- Entity Spawner
+loadstring(game:HttpGet('https://raw.githubusercontent.com/coolguy200xp/Doorsscripthotelplus/main/Entity%20Spawner'))()
+ 
+-- Shadow Hub
+loadstring(game:HttpGet('https://raw.githubusercontent.com/coolguy200xp/Doorsscripthotelplus/main/MSDOORS'))()
+ 
+ 
